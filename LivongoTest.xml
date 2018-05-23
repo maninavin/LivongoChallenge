@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="LivongoTestSuite">
+<test name ="LivongoTests">
+
+<classes>
+<class name = "tests.LivongoTest.LivongTest" />
+
+</classes>
+
+</test>
+
+
+</suite>

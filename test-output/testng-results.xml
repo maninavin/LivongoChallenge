@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13239" started-at="2018-05-23T18:21:15Z" finished-at="2018-05-23T18:21:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13239" started-at="2018-05-23T18:21:15Z" finished-at="2018-05-23T18:21:29Z">
+      <class name="tests.LivongoTest.LivongoTest">
+        <test-method status="PASS" signature="livongoTitleTest()[pri:0, instance:tests.LivongoTest.LivongoTest@61c4eee0]" name="livongoTitleTest" duration-ms="13216" started-at="2018-05-23T18:21:15Z" description="Test case to validate title on the Coverage page" finished-at="2018-05-23T18:21:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- livongoTitleTest -->
+      </class> <!-- tests.LivongoTest.LivongoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
